@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456962341747",
+    "project_id": "movie-app-84288",
+    "storage_bucket": "movie-app-84288.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456962341747:android:76455356cb9ce9671ae306",
+        "android_client_info": {
+          "package_name": "com.example.delacruz_movieapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVtgVabZqV7QWJQ_RNPnxwAVhBcjVKG-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
